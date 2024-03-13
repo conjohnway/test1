@@ -1,4 +1,9 @@
 -- SQL Query
 
-select * from table1
+select
+  a,
+  b,
+  c,
+  d
+from table1
 
